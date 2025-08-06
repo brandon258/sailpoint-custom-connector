@@ -44,5 +44,5 @@ sailpoint-custom-connector/
 
 ## 📚 Documentation
 
-- docs/walkthrough.md
-- docs/connector-architecture.png
+- [`docs/walkthrough.md`](docs/walkthrough.md)
+- [`docs/connector-architecture.png`](docs/connector-architecture.png)
